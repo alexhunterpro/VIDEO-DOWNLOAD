@@ -1,19 +1,24 @@
-# Alex Hunter Tools PRO (Python3) 
+<h1 align="center">ALEX HUNTER (CSB TEAM)</h1>
+ <!-- Social Icons -->
+<p align="center">
+  <!-- GitHub -->
+  <a href="https://github.com/alexhunterpro/VIDEO-DOWNLOAD.git" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-> **# Alex Hunter Tools PRO 🔥
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/share/17duqpTBLG/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 
-> **# আপনার সব কাজের জন্য এক ঝাঁক Termux টুলস  
-
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com/@alexhuntercsbbd" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+</p>
 ---
 
-## 🌐 Social Media
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YourProfile)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHub)
-
----
-
-## 🎥 Video Downloader
+## 🎥 Video Downloader Platform 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/YourVideoLink)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YourProfile)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@YourUsername)
@@ -22,10 +27,9 @@
 ---
 
 ## ⚡ Features
-- Quick Downloader for YouTube & Facebook  
-- Telegram Bot Manager  
-- WiFi Security Tools  
-- Termux Pro-Level Scripts  
+- Quick Downloader for Super Fast
+- Termux Pro-Level Scripts
+- Fast Tools & CSB Security 100% Sefaty Tools
 ---
 
 ## 🔷 Quick Git clone
@@ -36,11 +40,7 @@
 git clone https://github.com/alexhunterpro/VIDEO-DOWNLOAD.git
 cd VIDEO-DOWNLOAD
 python3 videodownload.py
-
-# Run in Termux (recommended)
-python3 videodownload.py
 ```
-
 ---
 
 ## ✨ Features
@@ -73,18 +73,6 @@ pkg update && pkg upgrade -y
 pkg install python -y
 pkg install git -y
 ```
-
-2. Clone this repo and run:
-
-```bash
-git clone https://github.com/alexhunterpro/VIDEO-DOWNLOAD.git
-cd VIDEO-DOWNLOAD
-python3 videodownload.py
-
-```
-
-> When prompted, allow Termux storage permission so downloads save to `/sdcard/DLP`.
-
 ---
 
 ## 📥 Usage
@@ -108,43 +96,15 @@ download_dir = "/sdcard/DLP"
 
 ---
 
-## 🧩 Extending the tool
-
-Suggested improvements:
-
-* Add a configuration file (`config.json`) to persist user choices
-* Add queueing and background downloads via `aria2c` + `yt-dlp --external-downloader`
-* Add post-processing: subtitles, convert to mp3/m4a, or trim
-* Add logging and retry logic for unstable networks
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome. Please fork the repo, make changes on a branch, and open a pull request.
-
-1. Fork
-2. Create a feature branch: `git checkout -b feature/my-change`
-3. Commit and push
-4. Open a PR describing changes
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
-
----
-
 ## 🙋 Contact Author 
 
 - CYBER SENTINEL BANGLADESH 
 - TEAM MEMBER ( ALEX HUNTER ) 🥱☠️
-- Spammer & Hacking....!! 😌
-- Gray Hacker....💥
+- SPAMMER & HACKING....!! 😌
+- CSB OFFICIAL MEMBER....💥
 
 - # Telegram : @alexhuntercsb
 
 ---
 
-*Made with ❤️ — Alex Hunter Tools PRO*
+## *Made with ❤️ — Alex Hunter Tools PRO*
