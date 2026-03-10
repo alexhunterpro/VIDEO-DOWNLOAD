@@ -1,4 +1,4 @@
-<h1 align="center">ALEX HUNTER (CSB TEAM)</h1>
+<h1 align="center">ALEX HUNTER (CCT TEAM)</h1>
  <!-- Social Icons -->
 <p align="center">
   <!-- GitHub -->
@@ -7,12 +7,12 @@
   </a>
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/share/17duqpTBLG/" target="_blank">
+  <a href="https://www.facebook.com/share/182x9gFuw9/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 
   <!-- TikTok -->
-  <a href="https://www.tiktok.com/@alexhuntercsbbd" target="_blank">
+  <a href="https://www.tiktok.com/@alexhuntercct" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
 </p>
@@ -30,7 +30,7 @@
 ## ⚡ Features
 - Quick Downloader for Super Fast
 - Termux Pro-Level Scripts
-- Fast Tools & CSB Security 100% Sefaty Tools
+- Fast Tools & CCT Security 100% Sefaty Tools
 ---
 
 ## 🔷 Quick Git clone
@@ -99,12 +99,12 @@ download_dir = "/sdcard/DLP"
 
 ## 🙋 Contact Author 
 
-- CYBER SENTINEL BANGLADESH 
+- CHANDPUR CYBER TEAM
 - TEAM MEMBER ( ALEX HUNTER ) 🥱☠️
 - SPAMMER & HACKING....!! 😌
-- CSB OFFICIAL MEMBER....💥
+- CCT OFFICIAL MEMBER....💥
 
-- # Telegram : @alexhuntercsb
+- # Telegram : @alexhuntercct
 
 ---
 
