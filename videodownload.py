@@ -1,4 +1,3 @@
-import Download
-
-if __name__ == "__main__":
-    Download.main()
+# Download.py
+def main():
+    print("Video Download Tool Running...")
